@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Khadse</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="600" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhadse52&label=Profile%20views&color=0e75b6&style=flat" alt="akhadse52" /> </p>
 
 - 🌱 I’m currently learning **Java Development, Angular**
